@@ -3,6 +3,7 @@
   height: 750px;
   overflow: hidden;
   position: relative;
+  margin: auto;
 }
 
 #mockup {
